@@ -12,7 +12,7 @@ include = [ "/src", "/requirements-build.txt" ]
 
 [project]
 name = "example_package_shekhar_awesome_pipeline"
-version = "0.0.2"
+version = "0.0.3"
 description = "Package created during OSS Europe 2022 tutorial"
 readme = "README.md"
 requires-python = ">=3.9"
